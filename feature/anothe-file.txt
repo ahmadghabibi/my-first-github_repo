@@ -3,3 +3,5 @@ this line was modified in feature-2 branch
 this change was made locally
 
 this line was add locally on feautre-2 branch
+
+another change in another file on feature-2
